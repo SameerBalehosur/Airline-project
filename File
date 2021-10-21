@@ -1,6 +1,0 @@
-Public Class User{
-int id=18;
-String name="Virat";
-}
-public Static void main(string [] args){
-}
