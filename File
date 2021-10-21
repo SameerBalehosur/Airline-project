@@ -1,0 +1,3 @@
+Public Class User{
+int id=18;
+}
